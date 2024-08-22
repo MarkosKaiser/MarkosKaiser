@@ -7,7 +7,7 @@
 
 - 📄 Know about my education & experience [https://www.linkedin.com/in/markos-kaiseroglou-msc-meng-119959192/](https://www.linkedin.com/in/markos-kaiseroglou-msc-meng-119959192/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
