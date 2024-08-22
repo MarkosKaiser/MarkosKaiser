@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Markos</h1>
-<h3 align="center">An enthusiastic Data & Solutions Engineer working for Pfizer Inc.</h3>
+<h1 align="left">Hi 👋, I'm Markos</h1>
+<h3 align="left">An enthusiastic Data & Solutions Engineer working for Pfizer Inc.</h3>
 
 - 🔭 I’m highly passionate about **Artificial Intelligence, Deep Learning, Data Analytics & Insights.**
 
-- 📫 Do not hesitate to reach me: **markoskaiser@gmail.com**
-
 - 📄 Know about my education & experience [https://www.linkedin.com/in/markos-kaiseroglou-msc-meng-119959192/](https://www.linkedin.com/in/markos-kaiseroglou-msc-meng-119959192/)
 
+- 📫 Do not hesitate to reach me: **markoskaiser@gmail.com**
 
 <p align="left">
 </p>
