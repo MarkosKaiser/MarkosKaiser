@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markos</h1>
 <h3 align="center">An enthusiastic Data & Solutions Engineer working for Pfizer Inc.</h3>
 
-- 🔭 I’m highly passionate about **Artificial Intelligence, Deep Learning, Data Analytics & Insights.**
+- 🔭 I’m highly passionate about **Artificial Intelligence, Deep Learning, Data Engineering, Analytics & Insights.**
 
 - 📫 Do not hesitate to reach me: **markoskaiser@gmail.com**
 
