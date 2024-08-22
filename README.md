@@ -5,7 +5,7 @@
 
 - 📄 Know about my education & experience [https://www.linkedin.com/in/markos-kaiseroglou-msc-meng-119959192/](https://www.linkedin.com/in/markos-kaiseroglou-msc-meng-119959192/)
 
-- 📫 Do not hesitate to reach me: **markoskaiser@gmail.com**
+- 📫 Always happy to reach me: **markoskaiser@gmail.com**
 
 <p align="left">
 </p>
