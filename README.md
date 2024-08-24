@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Markos</h1>
 <h3 align="left">An enthusiastic Data & Solutions Engineer working for Pfizer Inc.</h3>
 
-- 🔭 I’m highly passionate about **Artificial Intelligence, Deep Learning, Data Analytics & Insights.**
+- 🔭 I’m highly passionate about **Data Engineering, Analytics & Insights, Machine Learning, Deep Learning and more.**
 
 - 📄 Know about my education & experience [https://www.linkedin.com/in/markos-kaiseroglou-msc-meng-119959192/](https://www.linkedin.com/in/markos-kaiseroglou-msc-meng-119959192/)
 
