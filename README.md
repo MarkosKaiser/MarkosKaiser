@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Markos</h1>
-<h3 align="left">An enthusiastic Data & Solutions Engineer working for Pfizer Inc.</h3>
+<h3 align="left">An enthusiastic Data Engineer working for Coca Cola HBC </h3>
 
 - 🔭 I’m highly passionate about **Data Engineering, Analytics & Insights, Machine Learning, Deep Learning and more.**
 
